@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **ReactJs/React-Native projects**
 
 - 📫 How to reach me **stevenkebila@gmail.com**
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/stevenkebila_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stevenkebila_" height="30" width="40" /></a>
 <a href="https://dribbble.com/stevenkebila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="stevenkebila" height="30" width="40" /></a>
 </p>
-<br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,6 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skebila&show_icons=true&theme=dark&locale=en" alt="skebila" /></p>
-<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skebila&theme=dark" alt="skebila" /></p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skebila&label=Profile%20views&color=1c5945&style=flat" alt="skebila" /> </p>
