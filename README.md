@@ -27,6 +27,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skebila&show_icons=true&theme=dark&locale=en" alt="skebila" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skebila&theme=dark" alt="skebila" /></p><br>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skebila&theme=dark" alt="skebila" /></p><br>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skebila&label=Profile%20views&color=1c5945&style=flat" alt="skebila" /> </p>
 
