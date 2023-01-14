@@ -2,13 +2,13 @@
 <h3 align="left">A passionate frontend developer from Canada</h3>
 
 
-- 🔭 I’m currently working on [Student Haven App](https://github.com/skebila/student-haven)
+- 🔭 Please visit my portfolio [www.stevenkebila.com](https://www.stevenkebila.com)
 
-- 🌱 I’m currently learning **ReactJS, React-Native, AWS, Big Data**
+- 🌱 I’m currently perfecting my **ReactJS and AWS** skills
 
 - 👯 I’m looking to collaborate on **ReactJs/React-Native projects**
 
-- 📫 How to reach me **stevenkebila@gmail.com**
+- 📫 How to reach me **<a href='mailto:me@stevenkebila.com'>me@stevenkebila.com</a>**
 
 
 <h3 align="left">Connect with me:</h3>
