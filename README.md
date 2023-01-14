@@ -2,13 +2,13 @@
 <h3 align="left">A passionate frontend developer from Canada</h3>
 
 
-- 🔭 Please visit my portfolio [www.stevenkebila.com](https://www.stevenkebila.com)
+- 🔭 Please visit my portfolio **<a href='https://www.stevenkebila.com' target='_blank'>www.stevenkebila.com</a>**
+ 
+- 🌱 I’m currently perfecting my **ReactJS** and **AWS** skills
 
-- 🌱 I’m currently perfecting my **ReactJS and AWS** skills
+- 👯 I’m looking to collaborate on **ReactJs/React-Native** projects
 
-- 👯 I’m looking to collaborate on **ReactJs/React-Native projects**
-
-- 📫 How to reach me **<a href='mailto:me@stevenkebila.com'>me@stevenkebila.com</a>**
+- 📫 How to reach me **<a href='mailto:me@stevenkebila.com' target='_blank'>me@stevenkebila.com</a>**
 
 
 <h3 align="left">Connect with me:</h3>
