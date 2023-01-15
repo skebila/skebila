@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Canada</h3>
 
 
-- 🔭 Please visit my portfolio **<a href='https://www.stevenkebila.com' target='_blank'>www.stevenkebila.com</a>**
+- 🔭 Visit my portfolio **<a href='https://www.stevenkebila.com' target='_blank'>www.stevenkebila.com</a>**
  
 - 🌱 I’m currently perfecting my **ReactJS** and **AWS** skills
 
