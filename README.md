@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Steven!👋</h1>
-<h3 align="left">A passionate frontend developer from Canada</h3>
+<h3 align="left">A passionate frontend developer</h3>
 
 
 - 🔭 Visit my portfolio **<a href='https://www.stevenkebila.com' target='_blank'>www.stevenkebila.com</a>**
