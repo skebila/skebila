@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Steven Kebila
 
-I'm a Software Engineer with 4+ years of experience building backend systems, APIs, and creative front-end interfaces. I love music, design, and writing code that blends art and functionality.
+I’m a Full Stack Developer with 4+ years of experience building clean APIs, fast frontends, and scalable infrastructure. I specialize in turning complex problems into elegant, maintainable code.
 
 🚀 Check out my developer portfolio:  
 👉 [stevenkebila.com](https://stevenkebila.com)
